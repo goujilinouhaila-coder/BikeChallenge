@@ -1,5 +1,5 @@
 from setuptools import setup
-from prediction import __version__ as current_version
+from Prediction import __version__ as current_version
 
 setup(
   name='bikechallenge_ng',
@@ -9,6 +9,6 @@ setup(
   author='Goujili Nouhaila',
   author_email='goujilinouhaila@gmail.com',
   license='MIT',
-  packages=['prediction','prediction.io', 'prediction.preprocess', 'prediction.vis'],
+  packages=['Prediction','Prediction.io', 'Prediction.preprocess', 'Prediction.vis'],
   zip_safe=False
 ) 

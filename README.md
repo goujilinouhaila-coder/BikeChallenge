@@ -43,8 +43,6 @@ The link to my Binder: https://mybinder.org/v2/gh/goujilinouhaila-coder/BikeChal
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goujilinouhaila-coder/BikeChallenge/main?filepath=visualization-checkpoint.ipynb) 
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/goujilinouhaila-coder/BikeChallenge/main?filepath=visualization-checkpoint.ipynb
 
 The source is available at Visualization folder.
 

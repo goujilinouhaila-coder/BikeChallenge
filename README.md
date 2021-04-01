@@ -49,4 +49,4 @@ The link to my Binder: https://mybinder.org/v2/gh/goujilinouhaila-coder/BikeChal
 The source is available at Visualization folder.
 
 My visualization of my notebook looks like: 
-<img src="https://zupimages.net/up/21/13/lx3r.png" alt="image">
+<img src="https://www.zupimages.net/up/21/13/lx3r.png" alt="image">

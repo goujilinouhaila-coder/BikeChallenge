@@ -46,5 +46,9 @@ The link to my Binder: https://mybinder.org/v2/gh/goujilinouhaila-coder/BikeChal
 
 The source is available at Visualization folder.
 
+## HTML of my visualization:
+
+https://deducted-thousands.000webhostapp.com/?fbclid=IwAR3UNFdAXtnUfMNDjnVFL7yTweqV3QmNR-3WbtRgm6kWaoqAfqPykd4pgpo
+
 My visualization of my notebook looks like: 
 <img src="https://www.zupimages.net/up/21/13/lx3r.png" alt="image">
